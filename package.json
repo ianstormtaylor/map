@@ -1,15 +1,11 @@
 {
   "name": "map",
-  "repo": "ianstormtaylor/map",
+  "repository": "git://github.com/ianstormtaylor/map.git",
   "license": "MIT",
   "version": "0.0.2",
   "description": "Map an array or object.",
   "keywords": ["map", "array", "object"],
   "dependencies": {
-    "component/each": "*"
-  },
-  "development": {
-    "component/assert": "*"
-  },
-  "scripts": ["index.js"]
+    "each-component": "0.0.1"
+  }
 }

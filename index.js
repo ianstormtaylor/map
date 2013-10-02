@@ -1,5 +1,9 @@
 
-var each = require('each');
+try {
+  var each = require('each');
+} catch (e) {
+  var each = require('each-component');
+}
 
 
 /**

@@ -5,6 +5,7 @@
 ## Installation
 
     $ component install ianstormtaylor/map
+    $ npm install ianstormtaylor/map
 
 ## Example
 
