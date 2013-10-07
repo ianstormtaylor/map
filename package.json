@@ -2,10 +2,10 @@
   "name": "map",
   "repository": "git://github.com/ianstormtaylor/map.git",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Map an array or object.",
   "keywords": ["map", "array", "object"],
   "dependencies": {
-    "each-component": "0.0.1"
+    "each": "component/each#0.1.0"
   }
 }
