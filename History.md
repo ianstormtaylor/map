@@ -1,3 +1,9 @@
+
+0.1.1 - February 10, 2013
+-------------------------
+* pin each dependency
+* add node tests
+
 0.1.0 - October 6, 2013
 -----------------------
 * fix npm packaging

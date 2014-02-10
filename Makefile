@@ -12,6 +12,7 @@ node_modules: package.json
 	@npm install
 
 test: build
-	@open test/index.html
+	@./node_modules/.bin/mocha --reporter spec
+	@component test phantom
 
 .PHONY: clean test
