@@ -1,4 +1,9 @@
 
+0.1.2 - April 1, 2014
+---------------------
+
+ * updating package.json to use pinned each
+
 0.1.1 - February 10, 2013
 -------------------------
 * pin each dependency

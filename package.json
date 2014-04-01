@@ -2,7 +2,7 @@
   "name": "map",
   "repository": "git://github.com/ianstormtaylor/map.git",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Map an array or object.",
   "keywords": [
     "map",
