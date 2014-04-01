@@ -10,7 +10,7 @@
     "object"
   ],
   "dependencies": {
-    "each-component": "~0.1.0"
+    "each-component": "segmentio/each#0.1.x"
   },
   "devDependencies": {
     "mocha": "~1.17.1"
